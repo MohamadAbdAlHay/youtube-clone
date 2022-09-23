@@ -15,11 +15,11 @@ body {
 
 @media (max-width: 750px) {
   .video-title {
-  font-size: 10px;
+  font-size: 6px;
 }
 
 .video-author,
 .video-stats {
-  font-size: 6px;
+  font-size: 3px;
     }
   }
