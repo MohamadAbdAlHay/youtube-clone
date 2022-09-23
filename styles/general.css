@@ -21,4 +21,9 @@ body {
   .video-title {
   font-size: 7px;
 }
-}
+
+.video-author,
+.video-stats {
+  font-size: 4px;
+    }
+  }
