@@ -14,16 +14,12 @@ body {
 }
 
 @media (max-width: 750px) {
-  body {
-  font-size: 6px;
-  }
-  
   .video-title {
-  font-size: 7px;
+  font-size: 10px;
 }
 
 .video-author,
 .video-stats {
-  font-size: 4px;
+  font-size: 6px;
     }
   }
